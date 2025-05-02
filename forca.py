@@ -1,4 +1,4 @@
-numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23,24]
 nomes = ["Adryan", "Alana","Andresa", "Cleibson", "Gabriel", "Giovanna", "Gustavo", "Isabella", "João", "Júlia", "Leide", "Lucas", "LUNA", "Manoel", "Mariana", "Matheus V.", "Narely", "Renan", "Samuel", "Sérgio", "Sol", "Victor", "Weverton", "Yuri"]
 
 print("Escolha um número de 1 a 23:")
